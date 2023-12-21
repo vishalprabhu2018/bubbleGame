@@ -4,7 +4,8 @@
 
 
   
-<img width="903" alt="image" src="https://github.com/vishalprabhu2018/bubbleGame/assets/46224719/e5b783ab-38f8-4dc9-a5e0-8069dc57743c">
+<img width="903" alt="image" src="https://github.com/vishalprabhu2018/bubbleGame/assets/46224719/e5b783ab-38f8-4dc9-a5e0-8069dc57743c"> 
+<br/>  <br/>
 
 
 
